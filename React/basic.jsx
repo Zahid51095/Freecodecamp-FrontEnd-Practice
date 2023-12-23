@@ -1,11 +1,8 @@
-const JSX = <div>
-  <h1>This is Complex Jsx</h1>
-  <p>hudududuud</p>
-  <ul>
-    <li>tuut</li>
-    <li>puut</li>
-    <li>dhuut</li>
-
-  </ul>
-
-</div>
+const JSX = (
+    <div>
+    
+      <h1>This is a block of JSX</h1>
+      <p>Here's a subtitle</p>
+   {   /* this is how we comment in jsx */}
+    </div>
+  );
